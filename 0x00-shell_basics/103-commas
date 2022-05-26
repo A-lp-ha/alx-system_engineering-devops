@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A -d -m |sort -u 0x00-shell_basics
+ls -map
